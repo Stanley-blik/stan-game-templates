@@ -22,26 +22,26 @@
 | AR Quest | ar-quest | ✓ | ✓ |
 | Strategy Legends | strategy-legends | ✓ | ✓ |
 | Robot Strike | robot-strike | ✓ | ✓ |
-| Sandbox Strike | sandbox-strike | | |
-| Multiplayer Quest | multiplayer-quest | | |
-| Turn-Based Manager | turn-based-manager | | |
-| Medieval Strategy | medieval-strategy | | |
-| AR Evolution | ar-evolution | | |
-| Arcade Odyssey | arcade-odyssey | | |
-| Puzzle Tycoon | puzzle-tycoon | | |
-| Idle Legends | idle-legends | | |
-| Retro Battlegrounds | retro-battlegrounds | | |
-| Galaxy Adventure | galaxy-adventure | | |
-| Platformer Odyssey | platformer-odyssey | | |
-| Boss Rush Clash | boss-rush-clash | | |
-| Fantasy Strategy | fantasy-strategy | | |
-| Sandbox Reborn | sandbox-reborn | | |
-| Sci-Fi Tactics | sci-fi-tactics | | |
-| 3D Adventure | 3d-adventure | | |
-| Stealth Tycoon | stealth-tycoon | | |
-| Music Adventure | music-adventure | | |
-| Puzzle Champions | puzzle-champions | | |
-| Stealth Battlegrounds | stealth-battlegrounds | | |
+| Sandbox Strike | sandbox-strike | ✓ | ✓ |
+| Multiplayer Quest | multiplayer-quest | ✓ | ✓ |
+| Turn-Based Manager | turn-based-manager | ✓ | ✓ |
+| Medieval Strategy | medieval-strategy | ✓ | ✓ |
+| AR Evolution | ar-evolution | ✓ | ✓ |
+| Arcade Odyssey | arcade-odyssey | ✓ | ✓ |
+| Puzzle Tycoon | puzzle-tycoon | ✓ | ✓ |
+| Idle Legends | idle-legends | ✓ | ✓ |
+| Retro Battlegrounds | retro-battlegrounds | ✓ | ✓ |
+| Galaxy Adventure | galaxy-adventure | ✓ | ✓ |
+| Platformer Odyssey | platformer-odyssey | ✓ | ✓ |
+| Boss Rush Clash | boss-rush-clash | ✓ | ✓ |
+| Fantasy Strategy | fantasy-strategy | ✓ | ✓ |
+| Sandbox Reborn | sandbox-reborn | ✓ | ✓ |
+| Sci-Fi Tactics | sci-fi-tactics | ✓ | ✓ |
+| 3D Adventure | 3d-adventure | ✓ | ✓ |
+| Stealth Tycoon | stealth-tycoon | ✓ | ✓ |
+| Music Adventure | music-adventure | ✓ | ✓ |
+| Puzzle Champions | puzzle-champions | ✓ | ✓ |
+| Stealth Battlegrounds | stealth-battlegrounds | ✓ | ✓ |
 | Roguelite Game | roguelite-game | | |
 | MMO Tycoon | mmo-tycoon | | |
 | Fantasy Campaign | fantasy-campaign | | |
