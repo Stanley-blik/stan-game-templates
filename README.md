@@ -21,22 +21,22 @@ Stan does not generate code from scratch. When a user requests a new feature or 
 The `templates/` directory is the core of this repository.
 
 `/
-├── .github/                  # CI/CD and Contribution files
-├── docs/                     # Detailed documentation for contributors
-├── unity_base_project/       # ⬅️ Base Unity project settings (Input System, default folders)
-│
-├── templates/ # ⬅️ Core Game Templates (Modular Core Projects)
-│   ├── fps_3d_shooter/ # Template for a 3D First-Person Shooter
-│   │   ├── Gameplay/         # Core scripts (e.g., FpsController.cs, GunSystem.cs)
-│   │   ├── Scenes/           # Minimal testing scene
-│   │   └── AI_PROMPT_DOC.md  # ⬅️ Instructions for the Stan AI
-│   │
-│   ├── rpg_2d_topdown/ # Template for a 2D Top-Down RPG
-│   │   └── ...               # (Movement, InventorySystem, CombatManager)
-│   │
-│   └── platformer_2d/ # Template for a simple 2D Platformer
-│       └── ...
-│
+├── .github/                  # CI/CD and Contribution files <br>
+├── docs/                     # Detailed documentation for contributors <br>
+├── unity_base_project/       # ⬅️ Base Unity project settings (Input System, default folders) <br>
+│ <br>
+├── templates/ # ⬅️ Core Game Templates (Modular Core Projects) <br>
+│   ├── fps_3d_shooter/ # Template for a 3D First-Person Shooter <br>
+│   │   ├── Gameplay/         # Core scripts (e.g., FpsController.cs, GunSystem.cs) <br>
+│   │   ├── Scenes/           # Minimal testing scene <br>
+│   │   └── AI_PROMPT_DOC.md  # ⬅️ Instructions for the Stan AI <br>
+│   │ <br>
+│   ├── rpg_2d_topdown/ # Template for a 2D Top-Down RPG <br>
+│   │   └── ...               # (Movement, InventorySystem, CombatManager) <br>
+│   │ <br>
+│   └── platformer_2d/ # Template for a simple 2D Platformer <br>
+│       └── ... <br>
+│ <br>
 └── README.md`
 
 ### 🧠 The `AI_PROMPT_DOC.md` (Crucial Component)
