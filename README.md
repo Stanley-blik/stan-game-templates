@@ -20,7 +20,7 @@ Stan does not generate code from scratch. When a user requests a new feature or 
 
 The `templates/` directory is the core of this repository.
 
-`/
+/
 ├── .github/                  # CI/CD and Contribution files <br>
 ├── docs/                     # Detailed documentation for contributors <br>
 ├── unity_base_project/       # ⬅️ Base Unity project settings (Input System, default folders) <br>
@@ -37,7 +37,7 @@ The `templates/` directory is the core of this repository.
 │   └── platformer_2d/ # Template for a simple 2D Platformer <br>
 │       └── ... <br>
 │ <br>
-└── README.md`
+└── README.md
 
 ### 🧠 The `AI_PROMPT_DOC.md` (Crucial Component)
 
