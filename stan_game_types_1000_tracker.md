@@ -42,24 +42,24 @@
 | Music Adventure | music-adventure | ✓ | ✓ |
 | Puzzle Champions | puzzle-champions | ✓ | ✓ |
 | Stealth Battlegrounds | stealth-battlegrounds | ✓ | ✓ |
-| Roguelite Game | roguelite-game | | |
-| MMO Tycoon | mmo-tycoon | | |
-| Fantasy Campaign | fantasy-campaign | | |
-| Fighting Battler | fighting-battler | | |
-| Racing Builder | racing-builder | | |
-| Educational Evolution | educational-evolution | | |
-| Naval Battler | naval-battler | | |
-| Multiplayer Builder | multiplayer-builder | | |
-| Rhythm Clash | rhythm-clash | | |
-| Hero Game | hero-game | | |
-| Physics Showdown | physics-showdown | | |
-| Medieval Story | medieval-story | | |
-| Strategy Survival | strategy-survival | | |
-| Retro Strategy | retro-strategy | | |
-| Villain World | villain-world | | |
-| Crafting Showdown | crafting-showdown | | |
-| Zombie Game | zombie-game | | |
-| Magic Saga | magic-saga | | |
+| Roguelite Game | roguelite-game | ✓ | |
+| MMO Tycoon | mmo-tycoon | ✓ | |
+| Fantasy Campaign | fantasy-campaign | ✓ | |
+| Fighting Battler | fighting-battler | ✓ | |
+| Racing Builder | racing-builder | ✓ | |
+| Educational Evolution | educational-evolution | ✓ | |
+| Naval Battler | naval-battler | ✓ | |
+| Multiplayer Builder | multiplayer-builder | ✓ | |
+| Rhythm Clash | rhythm-clash | ✓ | |
+| Hero Game | hero-game | ✓ | |
+| Physics Showdown | physics-showdown | ✓ | |
+| Medieval Story | medieval-story | ✓ | |
+| Strategy Survival | strategy-survival | ✓ | |
+| Retro Strategy | retro-strategy | ✓ | |
+| Villain World | villain-world | ✓ | |
+| Crafting Showdown | crafting-showdown | ✓ | |
+| Zombie Game | zombie-game | ✓ | |
+| Magic Saga | magic-saga | ✓ | |
 | Zombie Origins | zombie-origins | | |
 | Tower Defense Simulator | tower-defense-simulator | | |
 | Building Arena | building-arena | | |
