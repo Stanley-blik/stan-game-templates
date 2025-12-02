@@ -60,27 +60,27 @@
 | Crafting Showdown | crafting-showdown | ✓ | |
 | Zombie Game | zombie-game | ✓ | |
 | Magic Saga | magic-saga | ✓ | |
-| Zombie Origins | zombie-origins | | |
-| Tower Defense Simulator | tower-defense-simulator | | |
-| Building Arena | building-arena | | |
-| Medieval Origins | medieval-origins | | |
-| Detective Strategy | detective-strategy | | |
-| Magic Showdown | magic-showdown | | |
-| Boss Rush World | boss-rush-world | | |
-| Rhythm World | rhythm-world | | |
-| Exploration Simulator | exploration-simulator | | |
-| Rougelike Tycoon | rougelike-tycoon | | |
-| RPG Manager | rpg-manager | | |
-| Robot Game | robot-game | | |
-| Platform Legends | platform-legends | | |
-| Puzzle Adventure | puzzle-adventure | | |
-| Hardcore Legends | hardcore-legends | | |
-| Dungeon Showdown | dungeon-showdown | | |
-| Idle Simulator | idle-simulator | | |
-| RPG Builder | rpg-builder | | |
-| Metroidvania Shooter | metroidvania-shooter | | |
-| Stealth Champions | stealth-champions | | |
-| Music World | music-world | | |
+| Zombie Origins | zombie-origins | ✓ | |
+| Tower Defense Simulator | tower-defense-simulator | ✓ | |
+| Building Arena | building-arena | ✓ | |
+| Medieval Origins | medieval-origins | ✓ | |
+| Detective Strategy | detective-strategy | ✓ | |
+| Magic Showdown | magic-showdown | ✓ | |
+| Boss Rush World | boss-rush-world | ✓ | |
+| Rhythm World | rhythm-world | ✓ | |
+| Exploration Simulator | exploration-simulator | ✓ | |
+| Rougelike Tycoon | rougelike-tycoon | ✓ | |
+| RPG Manager | rpg-manager | ✓ | |
+| Robot Game | robot-game | ✓ | |
+| Platform Legends | platform-legends | ✓ | |
+| Puzzle Adventure | puzzle-adventure | ✓ | |
+| Hardcore Legends | hardcore-legends | ✓ | |
+| Dungeon Showdown | dungeon-showdown | ✓ | |
+| Idle Simulator | idle-simulator | ✓ | |
+| RPG Builder | rpg-builder | ✓ | |
+| Metroidvania Shooter | metroidvania-shooter | ✓ | |
+| Stealth Champions | stealth-champions | ✓ | |
+| Music World | music-world | ✓ | |
 | Horror Champions | horror-champions | | |
 | Simulation Story | simulation-story | | |
 | Shooter Chronicles | shooter-chronicles | | |
