@@ -19,3 +19,60 @@ Stan does not generate code from scratch. When a user requests a new feature or 
 ## 📂 Repository Structure
 
 The `templates/` directory is the core of this repository.
+
+`/
+├── .github/                  # CI/CD and Contribution files
+├── docs/                     # Detailed documentation for contributors
+├── unity_base_project/       # ⬅️ Base Unity project settings (Input System, default folders)
+│
+├── templates/ # ⬅️ Core Game Templates (Modular Core Projects)
+│   ├── fps_3d_shooter/ # Template for a 3D First-Person Shooter
+│   │   ├── Gameplay/         # Core scripts (e.g., FpsController.cs, GunSystem.cs)
+│   │   ├── Scenes/           # Minimal testing scene
+│   │   └── AI_PROMPT_DOC.md  # ⬅️ Instructions for the Stan AI
+│   │
+│   ├── rpg_2d_topdown/ # Template for a 2D Top-Down RPG
+│   │   └── ...               # (Movement, InventorySystem, CombatManager)
+│   │
+│   └── platformer_2d/ # Template for a simple 2D Platformer
+│       └── ...
+│
+└── README.md`
+
+### 🧠 The `AI_PROMPT_DOC.md` (Crucial Component)
+
+Each template folder contains an `AI_PROMPT_DOC.md` file. This file contains **meta-instructions** that Stan's LLM uses to correctly interact with the surrounding code:
+
+| Section | Purpose | Example |
+| :--- | :--- | :--- |
+| `// STAN_ENTRY_POINT:` | Directs the AI to the specific function or class to modify for common user requests. | `FpsController.cs -> OnMovementInput()` |
+| `// STAN_CONSTANTS:` | Provides key project constants (e.g., input bindings, variables) to maintain consistency. | `Gravity is applied in FpsController.cs, set to -9.81` |
+| `// STAN_GENERATION_GUIDE:` | Explicitly tells Stan *how* to behave (e.g., to modify an existing script vs. create a new one). | "Do NOT create a new script for jump functionality; modify `FpsController.cs`." |
+
+---
+
+## 🤝 Contribution Guidelines
+
+We actively encourage contributions from the Unity development community to make Stan smarter.
+
+Before submitting a Pull Request, please read the full **[CONTRIBUTING.md](./docs/CONTRIBUTING.md)** document.
+
+### Contribution Targets:
+
+1.  **New MCPs:** Adding a new, well-structured game genre (e.g., Roguelike, Visual Novel).
+2.  **Code Refinement:** Optimizing existing C# scripts for better performance, clean architecture, or adherence to the latest Unity best practices.
+3.  **AI Instruction Refinement:** Improving the `AI_PROMPT_DOC.md` files to guide the AI toward more accurate and high-quality code generation.
+
+### Installation (for Local Testing)
+
+To test an MCP locally before contributing:
+
+1.  Clone this repository: `git clone https://github.com/Stan-AI/stan-game-templates.git`
+2.  Open the cloned project in the Unity Editor.
+3.  Open the desired base scene from a template (e.g., `templates/fps_3d_shooter/Scenes/FPS_BaseScene.unity`).
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**. See the [LICENSE](./LICENSE) file for details.
