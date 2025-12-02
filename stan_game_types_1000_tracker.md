@@ -81,16 +81,16 @@
 | Metroidvania Shooter | metroidvania-shooter | ✓ | |
 | Stealth Champions | stealth-champions | ✓ | |
 | Music World | music-world | ✓ | |
-| Horror Champions | horror-champions | | |
-| Simulation Story | simulation-story | | |
-| Shooter Chronicles | shooter-chronicles | | |
-| Roguelite Battlegrounds | roguelite-battlegrounds | | |
-| Galaxy Battler | galaxy-battler | | |
-| Simulation Reborn | simulation-reborn | | |
-| Tycoon Survival | tycoon-survival | | |
-| Crafting Universe | crafting-universe | | |
-| Robot Empire | robot-empire | | |
-| Platformer Legends | platformer-legends | | |
+| Horror Champions | horror-champions | ✓ | |
+| Simulation Story | simulation-story | ✓ | |
+| Shooter Chronicles | shooter-chronicles | ✓ | |
+| Roguelite Battlegrounds | roguelite-battlegrounds | ✓ | |
+| Galaxy Battler | galaxy-battler | ✓ | |
+| Simulation Reborn | simulation-reborn | ✓ | |
+| Tycoon Survival | tycoon-survival | ✓ | |
+| Crafting Universe | crafting-universe | ✓ | |
+| Robot Empire | robot-empire | ✓ | |
+| Platformer Legends | platformer-legends | ✓ | |
 | Combat Simulator | combat-simulator | | |
 | Real-Time Racer | real-time-racer | | |
 | Tactical Survival | tactical-survival | | |
